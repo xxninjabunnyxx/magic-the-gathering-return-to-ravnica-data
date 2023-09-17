@@ -1,0 +1,118 @@
+---
+object: card
+id: 12f31616-1249-4964-b81a-4435405a2449
+oracle_id: bec6fb31-60a3-432f-ba36-aebf172f8b27
+multiverse_ids:
+- 270957
+mtgo_id: 46759
+mtgo_foil_id: 46760
+tcgplayer_id: 66475
+cardmarket_id: 258358
+name: Growing Ranks
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/12f31616-1249-4964-b81a-4435405a2449
+scryfall_uri: https://scryfall.com/card/rtr/217/growing-ranks?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/2/12f31616-1249-4964-b81a-4435405a2449.jpg?1562782938
+  normal: https://cards.scryfall.io/normal/front/1/2/12f31616-1249-4964-b81a-4435405a2449.jpg?1562782938
+  large: https://cards.scryfall.io/large/front/1/2/12f31616-1249-4964-b81a-4435405a2449.jpg?1562782938
+  png: https://cards.scryfall.io/png/front/1/2/12f31616-1249-4964-b81a-4435405a2449.png?1562782938
+  art_crop: https://cards.scryfall.io/art_crop/front/1/2/12f31616-1249-4964-b81a-4435405a2449.jpg?1562782938
+  border_crop: https://cards.scryfall.io/border_crop/front/1/2/12f31616-1249-4964-b81a-4435405a2449.jpg?1562782938
+mana_cost: "{2}{G/W}{G/W}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: At the beginning of your upkeep, populate. (Create a token that's a copy
+  of a creature token you control.)
+colors:
+- G
+- W
+color_identity:
+- G
+- W
+keywords:
+- Populate
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 80b2374d-c5f1-403e-9772-f6c806fd275e
+set: rtr
+set_name: Return to Ravnica
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/12f31616-1249-4964-b81a-4435405a2449/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abec6fb31-60a3-432f-ba36-aebf172f8b27&unique=prints
+collector_number: '217'
+digital: false
+rarity: rare
+watermark: selesnya
+flavor_text: |-
+  "We will grow an army large enough to withstand the Izzet's madness."
+  —Trostani
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Seb McKinnon
+artist_ids:
+- ad4caca0-8d89-44ce-a1a6-d5ca905bd6fb
+illustration_id: 848d9f89-e5f2-4e37-b04f-2adad607b918
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2978
+penny_rank: 2597
+prices:
+  usd: '0.45'
+  usd_foil: '2.64'
+  usd_etched: 
+  eur: '0.27'
+  eur_foil: '2.45'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270957
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Growing+Ranks&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Growing+Ranks&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Growing+Ranks
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66475?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Growing+Ranks&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46759?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

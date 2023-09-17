@@ -1,0 +1,111 @@
+---
+object: card
+id: a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a
+oracle_id: 427ba80d-cfdf-4651-a1eb-89a2125a9217
+multiverse_ids:
+- 253606
+mtgo_id: 46471
+mtgo_foil_id: 46472
+tcgplayer_id: 66664
+cardmarket_id: 258531
+name: Conjured Currency
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a
+scryfall_uri: https://scryfall.com/card/rtr/33/conjured-currency?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a.jpg?1562791158
+  normal: https://cards.scryfall.io/normal/front/a/7/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a.jpg?1562791158
+  large: https://cards.scryfall.io/large/front/a/7/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a.jpg?1562791158
+  png: https://cards.scryfall.io/png/front/a/7/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a.png?1562791158
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a.jpg?1562791158
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a.jpg?1562791158
+mana_cost: "{5}{U}"
+cmc: 6.0
+type_line: Enchantment
+oracle_text: At the beginning of your upkeep, you may exchange control of Conjured
+  Currency and target permanent you neither own nor control.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 80b2374d-c5f1-403e-9772-f6c806fd275e
+set: rtr
+set_name: Return to Ravnica
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7c2ea6e-7d29-4526-b135-9bbb1eed9d4a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A427ba80d-cfdf-4651-a1eb-89a2125a9217&unique=prints
+collector_number: '33'
+digital: false
+rarity: rare
+flavor_text: A bargain in Keyhole Downs is always too good to be true.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: 9a3b5a76-6933-4ff6-abfd-1568ff4923c0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12109
+prices:
+  usd: '0.17'
+  usd_foil: '0.54'
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.29'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253606
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Conjured+Currency&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Conjured+Currency&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Conjured+Currency
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66664?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Conjured+Currency&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46471?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

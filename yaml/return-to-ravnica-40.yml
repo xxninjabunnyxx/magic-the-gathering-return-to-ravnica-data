@@ -1,0 +1,115 @@
+---
+object: card
+id: 884afdb3-0d5f-45a1-b57e-6c3760aa0031
+oracle_id: a09cce6f-c957-49d7-af99-a7b2bce786e8
+multiverse_ids:
+- 253541
+mtgo_id: 46671
+mtgo_foil_id: 46672
+tcgplayer_id: 66573
+cardmarket_id: 258414
+name: Hover Barrier
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/884afdb3-0d5f-45a1-b57e-6c3760aa0031
+scryfall_uri: https://scryfall.com/card/rtr/40/hover-barrier?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/8/884afdb3-0d5f-45a1-b57e-6c3760aa0031.jpg?1562789441
+  normal: https://cards.scryfall.io/normal/front/8/8/884afdb3-0d5f-45a1-b57e-6c3760aa0031.jpg?1562789441
+  large: https://cards.scryfall.io/large/front/8/8/884afdb3-0d5f-45a1-b57e-6c3760aa0031.jpg?1562789441
+  png: https://cards.scryfall.io/png/front/8/8/884afdb3-0d5f-45a1-b57e-6c3760aa0031.png?1562789441
+  art_crop: https://cards.scryfall.io/art_crop/front/8/8/884afdb3-0d5f-45a1-b57e-6c3760aa0031.jpg?1562789441
+  border_crop: https://cards.scryfall.io/border_crop/front/8/8/884afdb3-0d5f-45a1-b57e-6c3760aa0031.jpg?1562789441
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Illusion Wall
+oracle_text: Defender, flying
+power: '0'
+toughness: '6'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 80b2374d-c5f1-403e-9772-f6c806fd275e
+set: rtr
+set_name: Return to Ravnica
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/884afdb3-0d5f-45a1-b57e-6c3760aa0031/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa09cce6f-c957-49d7-af99-a7b2bce786e8&unique=prints
+collector_number: '40'
+digital: false
+rarity: uncommon
+flavor_text: As whispers and rumors increased, so did the demand for fail-safe barriers.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mathias Kollros
+artist_ids:
+- 2ae0dd12-047c-4efb-80d7-bccc3bac5fba
+illustration_id: db7aa814-4640-4901-bcf2-fcb5d565958f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3917
+penny_rank: 5319
+prices:
+  usd: '0.37'
+  usd_foil: '2.84'
+  usd_etched: 
+  eur: '0.37'
+  eur_foil: '2.48'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253541
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hover+Barrier&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hover+Barrier&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hover+Barrier
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66573?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hover+Barrier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46671?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

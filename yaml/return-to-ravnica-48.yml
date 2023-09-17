@@ -1,0 +1,117 @@
+---
+object: card
+id: 749961e6-b135-4629-ae9d-124de0d70db9
+oracle_id: cc300649-ae50-47e7-ad0f-ffbdffddb989
+multiverse_ids:
+- 265394
+mtgo_id: 46581
+mtgo_foil_id: 46582
+tcgplayer_id: 66607
+cardmarket_id: 258420
+name: Runewing
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/749961e6-b135-4629-ae9d-124de0d70db9
+scryfall_uri: https://scryfall.com/card/rtr/48/runewing?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/4/749961e6-b135-4629-ae9d-124de0d70db9.jpg?1562788308
+  normal: https://cards.scryfall.io/normal/front/7/4/749961e6-b135-4629-ae9d-124de0d70db9.jpg?1562788308
+  large: https://cards.scryfall.io/large/front/7/4/749961e6-b135-4629-ae9d-124de0d70db9.jpg?1562788308
+  png: https://cards.scryfall.io/png/front/7/4/749961e6-b135-4629-ae9d-124de0d70db9.png?1562788308
+  art_crop: https://cards.scryfall.io/art_crop/front/7/4/749961e6-b135-4629-ae9d-124de0d70db9.jpg?1562788308
+  border_crop: https://cards.scryfall.io/border_crop/front/7/4/749961e6-b135-4629-ae9d-124de0d70db9.jpg?1562788308
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Bird
+oracle_text: |-
+  Flying
+  When Runewing dies, draw a card.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 80b2374d-c5f1-403e-9772-f6c806fd275e
+set: rtr
+set_name: Return to Ravnica
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/749961e6-b135-4629-ae9d-124de0d70db9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acc300649-ae50-47e7-ad0f-ffbdffddb989&unique=prints
+collector_number: '48'
+digital: false
+rarity: common
+flavor_text: In the hands of the open-minded, a runewing quill writes wisdom of its
+  own.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Martina Pilcerova
+artist_ids:
+- 30fead7c-da53-4c1b-b514-4be6e5ce487c
+illustration_id: ccc3b5e1-784c-401d-a26c-ae096feeb2a8
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21642
+penny_rank: 6144
+prices:
+  usd: '0.01'
+  usd_foil: '0.17'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.09'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265394
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Runewing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Runewing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Runewing
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66607?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Runewing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46581?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 11f42791-070a-4e3a-91c8-b801980abb76
+oracle_id: b800c3e5-4ed9-4603-a987-d830e90cf25e
+multiverse_ids:
+- 270374
+mtgo_id: 46387
+mtgo_foil_id: 46388
+tcgplayer_id: 66595
+cardmarket_id: 258395
+name: Phantom General
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/11f42791-070a-4e3a-91c8-b801980abb76
+scryfall_uri: https://scryfall.com/card/rtr/16/phantom-general?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/1/11f42791-070a-4e3a-91c8-b801980abb76.jpg?1562782874
+  normal: https://cards.scryfall.io/normal/front/1/1/11f42791-070a-4e3a-91c8-b801980abb76.jpg?1562782874
+  large: https://cards.scryfall.io/large/front/1/1/11f42791-070a-4e3a-91c8-b801980abb76.jpg?1562782874
+  png: https://cards.scryfall.io/png/front/1/1/11f42791-070a-4e3a-91c8-b801980abb76.png?1562782874
+  art_crop: https://cards.scryfall.io/art_crop/front/1/1/11f42791-070a-4e3a-91c8-b801980abb76.jpg?1562782874
+  border_crop: https://cards.scryfall.io/border_crop/front/1/1/11f42791-070a-4e3a-91c8-b801980abb76.jpg?1562782874
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Spirit Soldier
+oracle_text: Creature tokens you control get +1/+1.
+power: '2'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 80b2374d-c5f1-403e-9772-f6c806fd275e
+set: rtr
+set_name: Return to Ravnica
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/11f42791-070a-4e3a-91c8-b801980abb76/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab800c3e5-4ed9-4603-a987-d830e90cf25e&unique=prints
+collector_number: '16'
+digital: false
+rarity: uncommon
+flavor_text: After his death, the general was reunited with fallen soldiers from over
+  thirty of his campaigns.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: e855b532-0e5e-450c-ab19-836417f08363
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9234
+penny_rank: 4410
+prices:
+  usd: '0.05'
+  usd_foil: '0.40'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '0.32'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270374
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phantom+General&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phantom+General&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phantom+General
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66595?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phantom+General&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46387?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

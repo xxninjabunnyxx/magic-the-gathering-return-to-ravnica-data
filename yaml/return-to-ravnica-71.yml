@@ -1,0 +1,117 @@
+---
+object: card
+id: b421dcc9-0299-416d-86bc-c70ef49bcf98
+oracle_id: 33c3a6be-8cae-4de8-9d9b-43216d727e93
+multiverse_ids:
+- 253569
+mtgo_id: 46791
+mtgo_foil_id: 46792
+tcgplayer_id: 66502
+cardmarket_id: 258376
+name: Necropolis Regent
+lang: en
+released_at: '2012-10-05'
+uri: https://api.scryfall.com/cards/b421dcc9-0299-416d-86bc-c70ef49bcf98
+scryfall_uri: https://scryfall.com/card/rtr/71/necropolis-regent?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/4/b421dcc9-0299-416d-86bc-c70ef49bcf98.jpg?1562791874
+  normal: https://cards.scryfall.io/normal/front/b/4/b421dcc9-0299-416d-86bc-c70ef49bcf98.jpg?1562791874
+  large: https://cards.scryfall.io/large/front/b/4/b421dcc9-0299-416d-86bc-c70ef49bcf98.jpg?1562791874
+  png: https://cards.scryfall.io/png/front/b/4/b421dcc9-0299-416d-86bc-c70ef49bcf98.png?1562791874
+  art_crop: https://cards.scryfall.io/art_crop/front/b/4/b421dcc9-0299-416d-86bc-c70ef49bcf98.jpg?1562791874
+  border_crop: https://cards.scryfall.io/border_crop/front/b/4/b421dcc9-0299-416d-86bc-c70ef49bcf98.jpg?1562791874
+mana_cost: "{3}{B}{B}{B}"
+cmc: 6.0
+type_line: Creature — Vampire
+oracle_text: |-
+  Flying
+  Whenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it.
+power: '6'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 80b2374d-c5f1-403e-9772-f6c806fd275e
+set: rtr
+set_name: Return to Ravnica
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/80b2374d-c5f1-403e-9772-f6c806fd275e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Artr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/rtr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b421dcc9-0299-416d-86bc-c70ef49bcf98/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A33c3a6be-8cae-4de8-9d9b-43216d727e93&unique=prints
+collector_number: '71'
+digital: false
+rarity: mythic
+flavor_text: '"Jarad fancies himself king of the undercity, but he''s merely king
+  of rot."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Winona Nelson
+artist_ids:
+- e45fe8d3-75d6-42c9-a2df-e945ad81ea27
+illustration_id: f4c7a52f-5744-4d17-a803-dfa50816e850
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2166
+penny_rank: 5828
+prices:
+  usd: '0.62'
+  usd_foil: '8.14'
+  usd_etched: 
+  eur: '0.38'
+  eur_foil: '3.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253569
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Necropolis+Regent&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Necropolis+Regent&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Necropolis+Regent
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/66502?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Necropolis+Regent&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/46791?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
